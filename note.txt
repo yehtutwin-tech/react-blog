@@ -1,0 +1,11 @@
+Project installation
+Create components
+Create form
+Save data to state
+Input ref
+Display form and listing
+Edit form
+Delete record
+Bootstrap integration
+Fontawesome integration
+Defining propTypes
